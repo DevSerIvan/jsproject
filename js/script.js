@@ -13,12 +13,12 @@ else {
     alert('Не равно');
 } */
 
-/* let count = 2;
-while (count <= 5) {
+let count = 1;
+while (count <= 10) {
     console.log(count);
     count++;
-} */
-let c = 2;
+} 
+/* let c = 2;
 let i =0;
 
 do {
@@ -26,4 +26,4 @@ do {
     i++;
 }
 while (i < 4);
-console.log(c);
+console.log(c); */
