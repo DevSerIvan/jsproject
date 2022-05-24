@@ -38,4 +38,3 @@ personalMovieDB.movies[a] = b; // это ответы на вопросы a и b
 personalMovieDB.movies[c] = d; // это ответы на вопросы c и d
 
 console.log(personalMovieDB);
-      
