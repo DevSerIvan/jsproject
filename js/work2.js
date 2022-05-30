@@ -17,7 +17,6 @@
 // Код возьмите из предыдущего домашнего задания
 
 const number0fFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
-
 const personalMovieDB = {
     count: number0fFilms,
     movies: {},
